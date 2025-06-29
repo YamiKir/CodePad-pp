@@ -9,7 +9,8 @@
     Win, Linux 
          (maybe Android? ios? in future revisions?)
     
-    ##Language Written In: C++ 23 
+    ##Language Written In: C++ 23
+    ## qt and qtermwidget 
 
     Timeline:
 
